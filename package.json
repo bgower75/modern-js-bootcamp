@@ -1,0 +1,19 @@
+{
+  "name": "modern-js-bootcamp-course",
+  "version": "1.0.0",
+  "description": "Code for the Modern JS Bootcamp Udemy Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgower75/modern-js-bootcamp.git"
+  },
+  "author": "Belinda Gower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgower75/modern-js-bootcamp/issues"
+  },
+  "homepage": "https://github.com/bgower75/modern-js-bootcamp#readme"
+}
